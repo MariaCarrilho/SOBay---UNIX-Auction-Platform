@@ -1,0 +1,10 @@
+12 colher alimentacao 3 5 620 user -
+11 garfo alimentacao 2 7 620 user -
+9 raquete-tenis desporto 20 25 720 user1 -
+15 bola-basquetebol desporto 25 30 630 user1 user
+16 churrasqueira consumiveis 150 200 670 user1 -
+4 tenda consumiveis 40 60 650 user2 user1
+10 camisa consumiveis 150 200 670 user1 -
+41 secretaria consumiveis 40 60 650 user2 user1
+12 iphone telemoveis 60 80 687 user user1
+12 android telemoveis 160 180 1387 user1 user
